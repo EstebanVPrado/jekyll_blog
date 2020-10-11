@@ -20,7 +20,7 @@
 
 title: Esteban V. Prado
 #email: your-email@example.com
-#description: Hi! Welcome to my site :)
+description: Hi! Welcome to my site :)
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username: estebanvprado
