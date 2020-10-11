@@ -24,6 +24,7 @@ title: Esteban V. Prado
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username: estebanvprado
+twitter_username: EstebanVPrado
 github_username:  EstebanVPrado
 
 # Build settings
