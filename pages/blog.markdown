@@ -1,5 +1,5 @@
 ---
 layout: page
-title: Writings
-permalink: /writings/
+title: Essays
+permalink: /essays/
 ---
