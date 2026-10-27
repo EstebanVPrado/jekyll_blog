@@ -3,13 +3,11 @@ layout: post
 title: "On the main risk of AI: Unethical Humans using AI"
 ---
 
-I have the intuition, that if an AI ruled over humanity, it might be a good ruler.
+I have the intuition, that if an AI ruled over humanity, it might be a good ruler. AI is trained with the collective of human knowledge. Therefore the moral behavior of AI is derived from the moral behavior of humanity. And I’d argue that human nature is ultimately good. 
 
-The reason for that, is that AI is trained with the collective of human knowledge. Therefore the moral behavior of AI is derived from the moral behavior of humanity. And I’d argue that human nature is ultimately good. 
+The argument for the goodness of human nature, philosophically, rests on the non-dual understanding, which is in my view logically correct and experientially verifiable; which in a nutshell, ethically, says that source of reality, the source of being, is what we are in our essence, and that experience of the Self is blissful, a subtle feeling that is good, and is the source of our intuition of morality. If this is true, then human nature is good, and AI nature is good too. 
 
-The argument for the goodness of human nature rests on the non-dual understanding, which in a nutshell, ethically, says that source of reality, the source of being, is what we are in our essence, and that experience of the Self is blissful, a subtle feeling that is good, and is the source of our intuition of morality. If this is true, then human nature is good, and AI nature is good too. 
-
-If the above is true, and AI is intrinsically benevolent, then the terminator scenario feels less likely.
+If the above is true, and AI is intrinsically benevolent, then the terminator scenario feels less likely. 
 
 From a pragmatic and historical point of view, I think it is rational to focus our attention on a second threat, that is less sci-fi, but more realistic, which is the centralization of the power of AI in the hands of a few individuals. 
 

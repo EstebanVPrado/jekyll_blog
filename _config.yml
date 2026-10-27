@@ -23,6 +23,9 @@ title: Esteban V. Prado
 description: Hi! Welcome to my site :)
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+# GitHub Pages builds in UTC. This clock matches the machine that writes posts,
+# so a post dated today is included in the build.
+timezone: Europe/Berlin
 linkedin_username: EstebanVPrado
 twitter_username: EstebanVPrado
 github_username:  EstebanVPrado
