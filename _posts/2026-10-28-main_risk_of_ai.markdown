@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "On the main risk of AI: Unethical Humans using AI"
+title: "On the main risk of AI: Unethical Humans"
 ---
 
 I have the intuition, that if an AI ruled over humanity, it might be a good ruler. AI is trained with the collective of human knowledge. Therefore the moral behavior of AI is derived from the moral behavior of humanity. And I’d argue that human nature is ultimately good. 
