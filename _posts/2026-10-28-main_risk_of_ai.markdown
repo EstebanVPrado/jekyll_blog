@@ -1,6 +1,6 @@
 ---
 layout: post
-title: On the main risk of AI: Unethical Humans using AI
+title: "On the main risk of AI: Unethical Humans using AI"
 ---
 
 I have the intuition, that if an AI ruled over humanity, it might be a good ruler.
